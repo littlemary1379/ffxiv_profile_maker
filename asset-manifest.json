@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ffxiv_profile_maker/static/css/main.37060d93.css",
+    "main.js": "/ffxiv_profile_maker/static/js/main.8d2747a5.js",
+    "static/js/787.b56ee238.chunk.js": "/ffxiv_profile_maker/static/js/787.b56ee238.chunk.js",
+    "index.html": "/ffxiv_profile_maker/index.html",
+    "main.37060d93.css.map": "/ffxiv_profile_maker/static/css/main.37060d93.css.map",
+    "main.8d2747a5.js.map": "/ffxiv_profile_maker/static/js/main.8d2747a5.js.map",
+    "787.b56ee238.chunk.js.map": "/ffxiv_profile_maker/static/js/787.b56ee238.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37060d93.css",
+    "static/js/main.8d2747a5.js"
+  ]
+}
