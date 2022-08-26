@@ -20,6 +20,12 @@
   font-style: normal;
 }
 
+@import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+.nanumgothic * {
+ font-family: 'Nanum Gothic', sans-serif;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -99,4 +105,82 @@ body {
   background : linear-gradient( to bottom, #000000b3, #FFFFFF00 );
   width: 238px;
   height: 459px;
+}
+
+.section_image_pvp {
+  position: absolute;
+  left: 44px;
+  background : linear-gradient( to bottom, #000000b3, #FFFFFF00 );
+  width: 238px;
+  height: 459px;
+}
+
+.section_image_button_back {
+  position: absolute;
+  z-index: 2;
+  left: 103px;
+  top: 62px;
+  width: 1506px;
+  height: 1077px;
+}
+
+.section_user_server_name {
+  position: absolute;
+  z-index: 2;
+  width: 300px;
+  height: 200px;
+  top: 851px;
+  left: 39%;
+  margin-left: -56px;
+}
+
+.section_user_server {
+  text-align: center;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 25px; 
+  color: white;
+}
+
+.section_user_name {
+  text-align: center;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 60px; 
+  color: white;
+  margin-top: 15px;
+}
+
+.section_ingame_section {
+  margin-top: 18px;
+  height: 21px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.section_ingame_checkbox {
+  width: 22px;
+  height: 21px;
+  float: left;
+  position: relative;  
+}
+
+.section_ingame_checkbox_image {
+  position: absolute;  
+}
+
+.section_ingame_checkbox_check {
+  width: 22px;
+  height: 21px;
+  margin-left: 10px;
+  z-index: 3;
+  position: absolute;  
+}
+
+.section_ingame_text {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 17px;
+  margin-left: 20px;
+  color: white;
+  float: left;  
 }
