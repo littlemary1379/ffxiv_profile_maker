@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/ffxiv_profile_maker/static/css/main.ca445757.css",
-    "main.js": "/ffxiv_profile_maker/static/js/main.d4ccb38b.js",
+    "main.css": "/ffxiv_profile_maker/static/css/main.6451f1f5.css",
+    "main.js": "/ffxiv_profile_maker/static/js/main.05338b2f.js",
     "static/js/787.b56ee238.chunk.js": "/ffxiv_profile_maker/static/js/787.b56ee238.chunk.js",
     "static/media/ffxiv_sample_back.png": "/ffxiv_profile_maker/static/media/ffxiv_sample_back.ab948445c73bf017ebca.png",
+    "static/media/ffxiv_sample_profile_sheet_button_back.png": "/ffxiv_profile_maker/static/media/ffxiv_sample_profile_sheet_button_back.cef92a4f68875fcd40c4.png",
     "index.html": "/ffxiv_profile_maker/index.html",
-    "main.ca445757.css.map": "/ffxiv_profile_maker/static/css/main.ca445757.css.map",
-    "main.d4ccb38b.js.map": "/ffxiv_profile_maker/static/js/main.d4ccb38b.js.map",
+    "main.6451f1f5.css.map": "/ffxiv_profile_maker/static/css/main.6451f1f5.css.map",
+    "main.05338b2f.js.map": "/ffxiv_profile_maker/static/js/main.05338b2f.js.map",
     "787.b56ee238.chunk.js.map": "/ffxiv_profile_maker/static/js/787.b56ee238.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca445757.css",
-    "static/js/main.d4ccb38b.js"
+    "static/css/main.6451f1f5.css",
+    "static/js/main.05338b2f.js"
   ]
 }
